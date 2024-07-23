@@ -81,7 +81,7 @@ div i{
     justify-content: center;
     align-items: self-start;
     text-align: center;
-    background: url('./assets/macbook.png') no-repeat center center/cover;
+    background: url('./macbook.png') no-repeat center center/cover;
     height: 500px;
     width: 100%;
     padding: 20px;
@@ -92,7 +92,7 @@ div i{
     justify-content: center;
     align-items: self-start;
     text-align: center;
-    background: url('./assets/iphone01.png') no-repeat center center/cover;
+    background: url('./iphone01.png') no-repeat center center/cover;
     height: 500px;
     width: 100%;
     padding: 20px;
